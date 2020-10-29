@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:notekeeper/Screen/NoteList.dart';
 import 'Screen/NoteList.dart';
 void main() {
- 
+
 runApp(MyApp());
 }
 class MyApp extends StatelessWidget {
